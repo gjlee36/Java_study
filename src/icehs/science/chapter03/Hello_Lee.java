@@ -7,7 +7,7 @@ public class Hello_Lee {
 	}
 
 	public static void main(String[] args) {
-		System.out
+		
 
 	}
 
